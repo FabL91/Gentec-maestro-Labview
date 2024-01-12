@@ -69,6 +69,7 @@
 		</Item>
 	</Item>
 	<Item Name="Support" Type="Folder">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Initialize Hardware Maestro.vi" Type="VI" URL="../Initialize Hardware Maestro.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(#!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!&amp;%!B$EVB:8.U=G]A4WZM;7ZF!!!51$$`````#E&amp;E=G6T=SBJ=#E!!!N!!A!%5'^S&gt;!!!9!$R!!!!!!!!!!)447&amp;F=X2S&lt;S""9X%O&lt;(:D&lt;'&amp;T=RN)98*E&gt;W&amp;S:3".976T&gt;(*P)%.P&lt;G:J:SZD&gt;'Q!+%"1!!)!"1!''5BB=G2X98*F)%VB:8.U=G]A1W^O:GFH)$)!&amp;%"Q!!5.9W^O&lt;G6D&gt;'FP&lt;C"*2!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1"?!0%!!!!!!!!!!B..976T&gt;(*P)%&amp;D=3ZM&gt;G.M98.T'UBB=G2X98*F)%VB:8.U=G]A1W^O:GFH,G.U&lt;!!G1&amp;!!!A!&amp;!!983'&amp;S:(&gt;B=G5A47&amp;F=X2S&lt;S"$&lt;WZG;7=!6!$Q!!Q!!Q!%!!=!#!!*!!E!#1!*!!I!#1!,!!E$!!"Y!!!.#!!!#1!!!!U+!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!#A!!!!!!!!!!!1!-!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -77,6 +78,15 @@
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+		</Item>
+		<Item Name="Acquire Data.vi" Type="VI" URL="../Acquire Data.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%S!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$2!=!!?!!!6%UVB:8.U=G]A17.R,GRW9WRB=X-!&amp;5VB:8.U=G]A17.R)'6O)(.P=H2J:1!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$2!=!!?!!!6%UVB:8.U=G]A17.R,GRW9WRB=X-!&amp;5VB:8.U=G]A17.R)'6O)'6O&gt;(,J:1"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!1!"Q-!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!)!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 		</Item>
 	</Item>
 	<Item Name="TypeDefs" Type="Folder">
