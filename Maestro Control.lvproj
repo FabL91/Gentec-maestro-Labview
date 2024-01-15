@@ -14,6 +14,7 @@
 		<Item Name="Maestro Control.lvclass" Type="LVClass" URL="../Workers/Maestro Control/Maestro Control.lvclass"/>
 		<Item Name="Maestro Acq.lvclass" Type="LVClass" URL="../Workers/Maestro Acq/Maestro Acq.lvclass"/>
 		<Item Name="Maestro Data Logg.lvclass" Type="LVClass" URL="../Workers/Maestro Data Logg/Maestro Data Logg.lvclass"/>
+		<Item Name="Test Enr file.vi" Type="VI" URL="../Test Enr file.vi"/>
 		<Item Name="Dépendances" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
