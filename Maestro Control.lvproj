@@ -15,6 +15,8 @@
 		<Item Name="Maestro Acq.lvclass" Type="LVClass" URL="../Workers/Maestro Acq/Maestro Acq.lvclass"/>
 		<Item Name="Maestro Data Logg.lvclass" Type="LVClass" URL="../Workers/Maestro Data Logg/Maestro Data Logg.lvclass"/>
 		<Item Name="Test Enr file.vi" Type="VI" URL="../Test Enr file.vi"/>
+		<Item Name="Test Enr tdms.vi" Type="VI" URL="../Test Enr tdms.vi"/>
+		<Item Name="Message Pump.lvclass" Type="LVClass" URL="../Workers/Message Pump/Message Pump.lvclass"/>
 		<Item Name="Dépendances" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
