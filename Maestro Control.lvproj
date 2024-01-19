@@ -14,9 +14,9 @@
 		<Item Name="Maestro Control.lvclass" Type="LVClass" URL="../Workers/Maestro Control/Maestro Control.lvclass"/>
 		<Item Name="Maestro Acq.lvclass" Type="LVClass" URL="../Workers/Maestro Acq/Maestro Acq.lvclass"/>
 		<Item Name="Maestro Data Logg.lvclass" Type="LVClass" URL="../Workers/Maestro Data Logg/Maestro Data Logg.lvclass"/>
+		<Item Name="Message Pump.lvclass" Type="LVClass" URL="../Workers/Message Pump/Message Pump.lvclass"/>
 		<Item Name="Test Enr file.vi" Type="VI" URL="../Test Enr file.vi"/>
 		<Item Name="Test Enr tdms.vi" Type="VI" URL="../Test Enr tdms.vi"/>
-		<Item Name="Message Pump.lvclass" Type="LVClass" URL="../Workers/Message Pump/Message Pump.lvclass"/>
 		<Item Name="Dépendances" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
@@ -71,7 +71,6 @@
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
 				<Item Name="JDP Utility.lvlib" Type="Library" URL="/&lt;vilib&gt;/JDP Science/JDP Science Common Utilities/JDP Utility.lvlib"/>
 				<Item Name="JDP Timestamp.lvlib" Type="Library" URL="/&lt;vilib&gt;/JDP Science/JDP Science Common Utilities/Timestamp/JDP Timestamp.lvlib"/>
-				<Item Name="subTimeDelay.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/TimeDelayBlock.llb/subTimeDelay.vi"/>
 			</Item>
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Get PString__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Get PString__ogtk.vi"/>
@@ -119,7 +118,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{B9130A74-880D-49CC-9F6F-5BB62D43A393}</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">3</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Maestro-Gentec.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../EXE/Maestro-Gentec.exe</Property>
