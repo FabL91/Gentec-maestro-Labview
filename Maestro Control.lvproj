@@ -119,7 +119,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{B9130A74-880D-49CC-9F6F-5BB62D43A393}</Property>
-				<Property Name="Bld_version.build" Type="Int">4</Property>
+				<Property Name="Bld_version.build" Type="Int">5</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Maestro-Gentec.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../EXE/Maestro-Gentec.exe</Property>
